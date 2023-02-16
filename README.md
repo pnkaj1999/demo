@@ -1,1 +1,1 @@
-<h1> HTML </h1>
+<h1 align="center"> HTML </h1>
